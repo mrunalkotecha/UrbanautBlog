@@ -33,7 +33,7 @@ twitter_username: urbanaut
 github_username:  mrunalkotecha
 
 # Build settings
-theme: minimia
+# theme: minima
 plugins:
   - jekyll-feed
 
