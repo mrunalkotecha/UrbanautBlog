@@ -27,8 +27,8 @@ description: >-
 
     Urbanaut curates recommendations from select creative locals in different cities.You'll find insider tips, hidden gems and maybe some of the more popular spots - so you can explore the city just like a local would. We won't overwhelm you with too many options, but we'll make sure you're getting the best that the city has to offer.
 
-baseurl: "/blog"
-url: "https://urbanaut.in"
+baseurl: "/UrbanautBlog"
+url: "https://mrunalkotecha.github.io/"
 twitter_username: urbanaut
 github_username:  mrunalkotecha
 
